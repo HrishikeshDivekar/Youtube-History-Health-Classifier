@@ -1,4 +1,4 @@
-python 3.14.2
+python==3.14.2
 seaborn
 plotly
 matplotlib
