@@ -1,0 +1,12 @@
+{
+  "total_videos": 8963,
+  "healthy_count": 1324,
+  "brainrot_count": 7639,
+  "healthy_pct": 14.77,
+  "brainrot_pct": 85.23,
+  "health_score": 29.8,
+  "verdict": "\ud83d\udd34 BRAINROT DOMINANT",
+  "shorts_pct": 22.28,
+  "late_night_pct": 16.58,
+  "roc_auc": 0.908
+}
